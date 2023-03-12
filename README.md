@@ -9,9 +9,7 @@ This library allows you to make the ESP32 act as a Bluetooth Keyboard and contro
 - You can now go to "File" -> "Examples" -> "Remote_Camera" and select any of the examples to get started.
 ![draw2](https://user-images.githubusercontent.com/125154519/224574152-9863e997-82ea-4c01-9e5e-84d0981a6a73.jpg)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eIAQwfVq5PU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen>
-</iframe>
-[https://www.youtube.com/embed/eIAQwfVq5PU]
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YOUTUBE_VI...)](https://www.youtube.com/watch?v=YOUTU...)
 
 ## Example
 ``` C++
