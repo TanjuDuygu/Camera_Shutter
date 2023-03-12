@@ -11,7 +11,8 @@ This library allows you to make the ESP32 act as a Bluetooth Keyboard and contro
 
 https://www.youtube.com/watch?v=eIAQwfVq5PU&t=92s
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eIAQwfVq5PU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eIAQwfVq5PU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen>
+</iframe>
 
 ## Example
 ``` C++
