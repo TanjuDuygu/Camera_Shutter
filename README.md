@@ -8,6 +8,7 @@ This library allows you to make the ESP32 act as a Bluetooth Keyboard and contro
 - In the Arduino IDE go to "Sketch" -> "Include Library" -> "Add .ZIP Library..." and select the file you just downloaded.
 - You can now go to "File" -> "Examples" -> "Remote_Camera" and select any of the examples to get started.
 
+## Example
 
 #include <Shutter.h>
 #include <BLEDevice.h>
