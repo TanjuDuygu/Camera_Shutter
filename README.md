@@ -20,6 +20,10 @@ https://www.youtube.com/watch?v=eIAQwfVq5PU&t=104s
 
 [![Camera_Shutter](https://img.youtube.com/vi/eIAQwfVq5PU/0.jpg)](https://www.youtube.com/watch?v=eIAQwfVq5PU)
 
+
+[![Camera_Shutter](https://img.youtube.com/vi/-idyiCw4LfE/0.jpg)](https://www.youtube.com/watch?v=-idyiCw4LfE)
+
+
 ## Example
 ``` C++
 #include <Shutter.h>
