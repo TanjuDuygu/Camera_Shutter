@@ -1,6 +1,15 @@
 # ESP32 BLE Camera_Shutter
 
-This library allows you to make the ESP32 act as a Bluetooth Keyboard and control what it does.  
+How to make a long-distance remote control with the ESP32 module, which will enable you to remotely control the mobile phone camera and record nature and wildlife photos and videos.
+
+To download software:
+https://github.com/TanjuDuygu/camera_Shutter/
+
+Arduino and ESP Module installation video:
+https://www.youtube.com/watch?v=RB5MyQtHghU
+
+Remote test video:
+https://www.youtube.com/watch?v=eIAQwfVq5PU&t=104s
 
 ## Installation
 - (Make sure you can use the ESP32 with the Arduino IDE. [Instructions can be found here.](https://github.com/espressif/arduino-esp32#installation-instructions))
